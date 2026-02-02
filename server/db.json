@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@noirqr.com",
+      "password": "demo1234",
+      "createdAt": "2024-01-24T00:00:00.000Z"
+    },
+    {
+      "id": 1769802452895,
+      "name": "BlackBar",
+      "email": "andreyzero6@gmail.com",
+      "password": "qwerty",
+      "createdAt": "2026-01-30T19:47:32.895Z"
+    }
+  ],
+  "venues": [
+    {
+      "id": 1769286143482,
+      "name": "Probka",
+      "slug": "moy-bar",
+      "telegramChatId": "7101572223",
+      "themeColor": "#b30000",
+      "description": "Уютный бар с авторским коктейльным меню",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Капучино",
+          "price": 150,
+          "description": "Классический итальянский кофе со сливочной пеной",
+          "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
+          "category": "☕ Напитки",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 2,
+          "name": "Латте",
+          "price": 160,
+          "description": "Нежный кофе с молоком и ванилью",
+          "imageUrl": "https://images.unsplash.com/photo-1577318154e3387a3fedee1346bbb888?w=400",
+          "category": "☕ Напитки",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 3,
+          "name": "Цезарь салат",
+          "price": 280,
+          "description": "Салат с курицей, сухариками, соусом цезарь и пармезаном",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+          "category": "🥗 Салаты",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 4,
+          "name": "Греческий салат",
+          "price": 240,
+          "description": "Овощи, оливки, фета, оливковое масло",
+          "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
+          "category": "🥗 Салаты",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 5,
+          "name": "Бургер Классик",
+          "price": 320,
+          "description": "Мясная котлета, помидоры, салат, сыр, соус",
+          "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400",
+          "category": "🍔 Основное",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 6,
+          "name": "Паста Болоньезе",
+          "price": 350,
+          "description": "Классическая паста с мясным соусом и пармезаном",
+          "imageUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400",
+          "category": "🍔 Основное",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 7,
+          "name": "Тирамису",
+          "price": 190,
+          "description": "Классический итальянский десерт с маскарпоне и какао",
+          "imageUrl": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?w=400",
+          "category": "🍰 Десерты",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        },
+        {
+          "id": 8,
+          "name": "Чизкейк",
+          "price": 180,
+          "description": "Нежный чизкейк с ягодным соусом",
+          "imageUrl": "https://images.unsplash.com/photo-1610440899022-8502f32e1255?w=400",
+          "category": "🍰 Десерты",
+          "isAvailable": true,
+          "createdAt": "2024-01-24T20:22:23.482Z"
+        }
+      ],
+      "createdAt": "2026-01-24T20:22:23.482Z"
+    },
+    {
+      "id": 1769798194087,
+      "name": "Кафе Уют",
+      "slug": "kafe-uyt",
+      "telegramChatId": "9979779779",
+      "themeColor": "#FF6B6B",
+      "description": "Семейное кафе с домашней кухней",
+      "menuItems": [
+        {
+          "id": 1769802521541,
+          "name": "Капуч",
+          "price": 100,
+          "description": "",
+          "imageUrl": "https://nescafe.ru/articles/kofe-kapuchino",
+          "category": "Напитки",
+          "isAvailable": true,
+          "createdAt": "2026-01-30T19:48:41.541Z"
+        }
+      ],
+      "createdAt": "2026-01-30T18:36:34.087Z"
+    }
+  ],
+  "orders": []
+}
